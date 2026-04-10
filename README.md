@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there,I'm **Lealem Sisay**, from Ethiopia
+A third-year Computer Science student at Dilla University (CGPA: 3.5) with a strong interest in full-stack development and UI/UX design.
 
-<!--
-**lealemsisay/LEALEMSISAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:  
+  A **Dormitory Management System** (PostgreSQL,React)
+- 🌱 I’m currently learning:  
+  Advanced **React**, **Frontend**, and improving **UI/UX design**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on:  
+  Web development projects and real-world software systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with:  
+  Writing clean, scalable backend code and system design
+
+- 📫 How to reach me:  
+  📧 Email: lealemsisay6@gmail.com  
+  🌐 Portfolio: https://lealem.netlify.app
+
+- ⚡ Fun fact:  
+  I enjoy building systems that solve real-world problems and improve user experience
