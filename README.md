@@ -4,7 +4,7 @@ A third-year Computer Science student at Dilla University (CGPA: 3.5) with a str
 - 🔭 I’m currently working on:  
   A **Dormitory Management System** (PostgreSQL,React)
 - 🌱 I’m currently learning:  
-  Advanced **React**, **Frontend**, and improving **UI/UX design**
+   **React**, **Frontend**, and improving **UI/UX design**
 
 - 👯 I’m looking to collaborate on:  
   Web development projects and real-world software systems
