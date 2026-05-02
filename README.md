@@ -9,7 +9,7 @@ A third-year Computer Science student at Dilla University (CGPA: 3.5) with a str
 - 👯 I’m looking to collaborate on:  
   Web development projects and real-world software systems
 
-- 🤔 I’m looking for help with:  
+- I’m looking for help with:  
   Writing clean, scalable backend code and system design
 
 - 📫 How to reach me:  
